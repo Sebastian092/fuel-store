@@ -1,3 +1,3 @@
 # fuel-store
 
-![] (images/Sebastian.jpg)
+![image] (images/Sebastian.jpg)
