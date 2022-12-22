@@ -1,0 +1,14 @@
+.body__heading {
+    border: 2px solid black;
+    background-color: rgb(128, 128, 128);
+    color: white;
+    height: 40px;
+    width: auto;
+    padding: 1px 1px;
+    margin: 40px auto;
+    box-shadow: 12px -5px 16px -2px #1C2F35;
+    font-family: 'Lato', sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}

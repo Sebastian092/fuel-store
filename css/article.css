@@ -1,0 +1,11 @@
+.article__header {
+    text-align: center;
+}
+
+.article__container {
+    overflow-x: auto;
+}
+
+.article__paragraph {
+    text-align: center;
+}

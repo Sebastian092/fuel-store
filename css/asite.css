@@ -1,0 +1,23 @@
+.aside__listItem {
+    margin: 10px;
+    list-style-type: none;
+}
+
+.aside {
+    float: right;
+    width: auto;
+    padding: 5px;
+    border-collapse: collapse;
+    height: 698px;
+    border: 1px solid;
+    margin: 10px;
+}
+
+.aside__link {
+    text-decoration: none;
+    color: blue;
+}
+
+.aside__header {
+    text-align: center;
+}

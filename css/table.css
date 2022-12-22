@@ -1,0 +1,25 @@
+.table {
+    margin: auto;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.table__tableCell {
+    border: 1px solid white;
+    padding: 5px;
+    text-align: center;
+    color: blue;
+}
+
+.table__tableHeader {
+    background-color: gray;
+    color: white;
+}
+
+.tableRow:nth-child(even) {
+    background: rgb(235, 232, 232);
+}
+
+.table__tableRow:hover {
+    background-color: #ddd;
+}
