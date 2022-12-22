@@ -1,5 +1,4 @@
 # Sebastian Szaładyga
-![Sebastian](images\Sebastian.jpg)
 
 ## fuel-store
 
