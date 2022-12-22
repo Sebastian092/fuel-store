@@ -1,5 +1,5 @@
 # Sebastian Szaładyga
-![](images\Sebastian.jpg)
+![Sebastian](images\Sebastian.jpg)
 ## fuel-store
 
 https://sebastian092.github.io/fuel-store/
