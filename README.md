@@ -1,5 +1,5 @@
 # Fuel store
-Simple page about fuel store (with some black hummor due to current situaction in 2022 in Poland) that I created to pass my JS lesson.
+Simple page about fuel store (with some black humor due to current situation in 2022 in Poland) that I created to pass my JS lesson.
 
 ## How this work
 
